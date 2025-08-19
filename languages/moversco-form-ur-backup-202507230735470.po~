@@ -1,0 +1,445 @@
+# Copyright (C) 2025 Faizan Ali
+# This file is distributed under the same license as the MoversCo Form plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MoversCo Form 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/moversco\n"
+"Last-Translator: \n"
+"Language-Team: Urdu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-23T07:05:19+00:00\n"
+"PO-Revision-Date: 2025-07-23 07:35+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: moversco\n"
+"\n"
+"Language: ur\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.2.27"
+
+#. Plugin Name of the plugin
+#: moversco-form.php
+msgid "MoversCo Form"
+msgstr ""
+
+#. Description of the plugin
+#: moversco-form.php
+msgid "A plugin to handle the MoversCo form functionality."
+msgstr ""
+
+#. Author of the plugin
+#: moversco-form.php
+msgid "Faizan Ali"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:322
+msgid "VERHUISROUTE"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:323
+msgid "VERHUISVOLUME"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:324
+msgid "CONTACTGEGEVENS"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:331
+msgid "Number of Addresses"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:339
+msgid "1 address"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:347
+msgid "2 addresses"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:355
+msgid "3 addresses"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:364
+msgid "4 addresses"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:587
+msgid "Netherlands"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:588
+msgid "Belgium"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:589
+msgid "Germany"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:595
+#: includes/shortcodes/views/moversco-form.php:650
+#: includes/shortcodes/views/moversco-form.php:703
+msgid "Postal Code"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:601
+#: includes/shortcodes/views/moversco-form.php:656
+#: includes/shortcodes/views/moversco-form.php:709
+msgid "House Number"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:607
+#: includes/shortcodes/views/moversco-form.php:662
+#: includes/shortcodes/views/moversco-form.php:715
+msgid "Street"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:613
+#: includes/shortcodes/views/moversco-form.php:669
+#: includes/shortcodes/views/moversco-form.php:721
+msgid "City"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:626
+#: includes/shortcodes/views/moversco-form.php:681
+msgid "Country"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:741
+#: includes/shortcodes/views/moversco-form.php:749
+msgid "Full Address"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:757
+msgid "Type of Property"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:764
+msgid "Apartment"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:770
+msgid "House"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:776
+msgid "Storage"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:783
+msgid "Office Building"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:789
+msgid "Floor(s)"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:795
+msgid "Basement"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:801
+msgid "Ground floor"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:807
+msgid "1st floor"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:813
+msgid "2nd floor"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:819
+msgid "3rd floor"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:825
+msgid "4th floor or more"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:831
+msgid "Internal Lift"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:837
+#: includes/shortcodes/views/moversco-form.php:1144
+#: includes/shortcodes/views/moversco-form.php:1166
+msgid "Yes"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:843
+#: includes/shortcodes/views/moversco-form.php:897
+#: includes/shortcodes/views/moversco-form.php:997
+#: includes/shortcodes/views/moversco-form.php:1151
+#: includes/shortcodes/views/moversco-form.php:1174
+#: includes/shortcodes/views/moversco-form.php:1189
+msgid "No"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:849
+msgid "Distance from Parking to Front Door"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:855
+msgid "0 - 10 meters"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:861
+msgid "10 - 30 meters"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:867
+msgid "30 - 100 meters"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:883
+msgid "Move Details"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:886
+#: includes/shortcodes/views/moversco-form.php:888
+msgid "Preferred Date"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:892
+msgid "Packing in Boxes"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:905
+msgid "Only Packing"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:913
+msgid "Only Unpacking"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:922
+msgid "Packing & Unpacking"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:930
+msgid "Number of Boxes"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:935
+msgid "0 - 20"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:942
+msgid "20 - 40"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:949
+msgid "40 - 60"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:957
+msgid "60 - 80"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:964
+msgid "80 - 100"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:971
+msgid "100 - 120"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:978
+msgid "120 - 150"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:985
+msgid "150 - 200"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:992
+msgid "(Dis)assembly Work"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1005
+msgid "Only Disassemble"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1013
+msgid "Only Assemble"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1022
+msgid "Disassemble & Assemble"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1032
+msgid "Select Assembly Items"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1034
+msgid "Search here"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1037
+#: includes/shortcodes/views/moversco-form.php:1277
+msgid "Select items"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1112
+#: includes/shortcodes/views/moversco-form.php:1346
+msgid "No products found."
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1124
+msgid "Requirements"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1139
+msgid "Need Movers?"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1160
+msgid "Need Moving Truck?"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1183
+msgid "Need Moving Lift?"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1195
+msgid "Start Address"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1201
+msgid "Intermediate Address 1"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1209
+msgid "Intermediate Address 2"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1218
+msgid "Intermediate Address 3"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1227
+msgid "Intermediate Address 4"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1236
+msgid "End Address"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1249
+#: includes/shortcodes/views/moversco-form.php:1375
+msgid "Next"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1258
+msgid "Search"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1263
+msgid "Search quickly and add"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1274
+msgid "Inventory"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1357
+msgid "Total"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1362
+msgid "Cubic meters (m³)"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1368
+msgid "Number of Items"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1374
+#: includes/shortcodes/views/moversco-form.php:1476
+msgid "Previous"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1382
+msgid "Contact Details"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1384
+msgid "Customer Type"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1389
+msgid "Individual"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1395
+msgid "Business"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1401
+#: includes/shortcodes/views/moversco-form.php:1403
+msgid "Business Name"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1406
+msgid "Salutation"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1410
+msgid "Mr"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1415
+msgid "Ms"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1420
+#: includes/shortcodes/views/moversco-form.php:1423
+msgid "First Name"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1425
+msgid "Last Name"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1430
+#: includes/shortcodes/views/moversco-form.php:1432
+msgid "Phone"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1436
+#: includes/shortcodes/views/moversco-form.php:1438
+msgid "Email Address"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1442
+#: includes/shortcodes/views/moversco-form.php:1444
+msgid "Confirm Email Address"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1450
+msgid "Questions or Comments"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1457
+msgid "Agreement & Permissions"
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1463
+msgid ""
+"I agree to the processing of my personal data as described in the <a "
+"href=\"#\" target=\"_blank\" rel=\"noopener\">privacy statement</a>."
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1470
+msgid ""
+"I acknowledge that the general terms apply when receiving an offer <a "
+"href=\"#\" target=\"_blank\" rel=\"noopener\">terms and conditions</a>."
+msgstr ""
+
+#: includes/shortcodes/views/moversco-form.php:1477
+msgid "Submit"
+msgstr ""
